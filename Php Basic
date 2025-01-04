@@ -1,0 +1,3 @@
+PHP 
+
+---> go to the folder routes and In routes folder there is an webphp file , Press on it and go to the terminal and type  php artisan serve to Start the server.
